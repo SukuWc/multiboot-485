@@ -1,2 +1,2 @@
 # multiboot-485
-Full-duplex RS485 based low cost wired sensor network with automatic addressing and individually updateable nodes.
+Full-duplex RS485 based low cost wired sensor network with automatic addressing and individually updatable nodes.
